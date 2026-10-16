@@ -1,7 +1,8 @@
+![Painel de Análise](Captura%20de%20tela%202026-10-16%20203547.png)
+
 # Análise de Cancelamento de Clientes — Telecom
 
 Projeto de análise de dados com o dataset **Telco Customer Churn (IBM)** — identificação de padrões de saída de clientes e recomendações práticas de retenção.
-
 ---
 
 ## 🎯 Objetivo
